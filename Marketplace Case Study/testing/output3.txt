@@ -1,0 +1,14 @@
+Trader 0: $0.00000 PQ0.00000
+Trader 1: $100.00000 PQ10.00000
+Trader 2: $100.00000 PQ10.00000
+Trader 3: $100.00000 PQ10.00000
+Trader 4: $100.00000 PQ10.00000
+Current prices: 5.00000 6.00000 5.50000
+Trader 0: $0.00000 PQ0.00000
+Trader 1: $100.00000 PQ10.00000
+Trader 2: $100.00000 PQ10.00000
+Trader 3: $100.00000 PQ10.00000
+Trader 4: $100.00000 PQ10.00000
+Number of successful transactions: 0
+Number of invalid queries: 0
+0
